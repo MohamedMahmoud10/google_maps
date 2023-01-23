@@ -1,4 +1,4 @@
-String googleApiKey = 'AIzaSyD5LCZLdS1cq7-buPkwyLDjcARlFjiljYk';
+String googleApiKey = 'API-KEY';
 String placeAutoCompleteBaseUrl =
     'https://maps.googleapis.com/maps/api/place/autocomplete/json';
 String locationDetailsBaseUrl =
